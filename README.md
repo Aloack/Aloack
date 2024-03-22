@@ -1,5 +1,4 @@
-<img width=100% src="[Renderizador de Cápsulas com Texto em Laranja](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontAlign=0&fontAlignY=0&textBg=false&descAlign=100&descAlignY=100&color=FFA500)
-"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontAlign=0&fontAlignY=0&textBg=false&descAlign=100&descAlignY=100&color=FFA500"/>
 
 
 <div>
