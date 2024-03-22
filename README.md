@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontAlign=0&fontAlignY=0&textBg=false&descAlign=0&descAlignY=100&color=FFA500"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=false&fontAlign=0&fontAlignY=0&textBg=false&descAlign=0&descAlignY=100&color=FFA500"/>
 
 
 <div>
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Aloack&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aloack&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aloack&theme=OceanicNext&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
