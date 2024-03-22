@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Input%20text&section=header&reversal=false&color=FFA500)&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Input%20text&section=header&reversal=false&color=FFA500"/>
 
 
 <div>
