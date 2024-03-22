@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aloack}/count.svg" /></p> 
 <br>
 </div>
@@ -44,4 +44,4 @@
 </div>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccbe&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
