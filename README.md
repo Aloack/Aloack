@@ -3,7 +3,7 @@
 <div>
 
 <h1 align="center">
-    Olá! Eu sou o Garcia o Gordin 👋🌹
+    Olá! Eu sou o Gustavo Ribeiro 👋🌹
 </h1>
 
 <br><br>
@@ -48,9 +48,7 @@
 
 ## Contatos
 <div>
-    <a href="https://www.instagram.com/gabrielfontes6782/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/gabriel-fontes-barroso-95bb1924a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.cloudskillsboost.google/profile/badges" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/gustavo-ribeiro-2480b9223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 </div>
