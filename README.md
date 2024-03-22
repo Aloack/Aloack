@@ -3,7 +3,7 @@
 <div>
 
 <h1 align="center">
-    Olá! Eu sou o Gabriel Fontes Barroso 👋🌹
+    Olá! Eu sou o Garcia o Gordin 👋🌹
 </h1>
 
 <br><br>
