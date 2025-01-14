@@ -30,7 +30,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aloack}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabriel-2470}/count.svg" /></p> 
 <br>
 </div>
 
