@@ -28,16 +28,15 @@
   
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="" /></p> 
-<br>
-</div>
 
 <div align="center">
   <p>Feito com 💀</p>
 </div>
 
+## Contatos
+<div>
+    <a href="https://www.linkedin.com/in/gustavo-ribeiro-2480b9223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
